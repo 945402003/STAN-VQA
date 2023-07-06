@@ -3,11 +3,11 @@ STAN: Spatio-Temporal Alignment Network for No-Reference Video Quality Assessmen
 
 ## Framework
 
-![framework](pic\framework.png)
+![framework](./pic/framework.png)
 
 ## Attention Map
 
-![attention_map](pic\attention_map.png)
+![attention_map](./pic/attention_map.png)
 
 ## Citation
 
